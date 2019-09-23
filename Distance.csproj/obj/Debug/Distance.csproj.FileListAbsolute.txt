@@ -1,0 +1,9 @@
+/Users/nk.vlsv/Downloads/Distance.csproj/bin/Debug/Distance.exe.config
+/Users/nk.vlsv/Downloads/Distance.csproj/bin/Debug/Distance.exe
+/Users/nk.vlsv/Downloads/Distance.csproj/bin/Debug/Distance.pdb
+/Users/nk.vlsv/Downloads/Distance.csproj/bin/Debug/TestingRoom.dll
+/Users/nk.vlsv/Downloads/Distance.csproj/obj/Debug/Distance.csprojAssemblyReference.cache
+/Users/nk.vlsv/Downloads/Distance.csproj/obj/Debug/Distance.csproj.CoreCompileInputs.cache
+/Users/nk.vlsv/Downloads/Distance.csproj/obj/Debug/Distance.csproj.CopyComplete
+/Users/nk.vlsv/Downloads/Distance.csproj/obj/Debug/Distance.exe
+/Users/nk.vlsv/Downloads/Distance.csproj/obj/Debug/Distance.pdb
